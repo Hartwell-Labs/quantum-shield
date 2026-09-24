@@ -1,8 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=QuantumShield&fontSize=32&animation=fadeIn" width="100%" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Post-quantum%20file%20encryption%20CLI%20%E2%80%94%20ML-KEM-768%20%2B%20AES-256-GCM)](https://github.com/BartoszOsiej/pqguard)
+<img src="https://raw.githubusercontent.com/Hartwell-Labs/.github/main/profile/assets/hartwell-logo.svg" width="72" alt="Hartwell Labs" />
+
+## Quantum Shield
+
+Post-quantum file encryption — ML-KEM-768 key encapsulation + AES-256-GCM.
+
+[![Rust](https://img.shields.io/badge/Rust-cryptography-F15A24?style=flat-square&logo=rust)](.)
+[![License](https://img.shields.io/badge/license-MIT-F15A24?style=flat-square)](LICENSE) [![Website](https://img.shields.io/badge/site-hartwell--labs.github.io-4f46e5?style=flat-square)](https://hartwell-labs.github.io)
+
+[Website](https://hartwell-labs.github.io) · [All products](https://hartwell-labs.github.io/products/) · [Security](https://hartwell-labs.github.io/security/) · [Hack the Lab](https://github.com/Hartwell-Labs/hack-the-lab)
+
+</div>
 
 </div># 🔒 pqguard
 
@@ -173,3 +182,14 @@ MIT
 Extended dossiers (architecture, verification, benchmarks, error codex) ship in this repo:
 - [SECURITY.md](SECURITY.md)
 - [ARCHITECTURE-NOTES.md](ARCHITECTURE-NOTES.md)
+---
+
+<div align="center">
+
+**[Hartwell Labs](https://github.com/Hartwell-Labs)** — security systems, languages and tools, built in the open.
+
+[Website](https://hartwell-labs.github.io) · [All products](https://hartwell-labs.github.io/products/) · [Security policy](https://hartwell-labs.github.io/security/) · [Report a vulnerability](https://hartwell-labs.github.io/security/)
+
+<sub>MIT License · © 2026 Hartwell Labs</sub>
+
+</div>
